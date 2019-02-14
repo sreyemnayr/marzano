@@ -20,7 +20,7 @@ Marzano Power Law Calculator
 
 
 
-
+Requires modern Python
 
 * Free software: MIT license
 * Documentation: https://marzano.readthedocs.io.

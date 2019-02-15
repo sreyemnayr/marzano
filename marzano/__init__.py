@@ -5,5 +5,5 @@ from .marzano import powerlaw
 
 __author__ = """Ryan Meyers"""
 __email__ = "ryanmeyersweb@gmail.com"
-__version__ = "__version__ = '2019.02.15'"
+__version__ = "__version__ = '2019.02.16'"
 

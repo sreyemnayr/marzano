@@ -46,6 +46,6 @@ setup(
     test_suite="tests",
     tests_require=test_requirements,
     url="https://github.com/sreyemnayr/marzano",
-    version="2019.02.14",
+    version="version='2019.02.15'",
     zip_safe=False,
 )

@@ -18,7 +18,8 @@ Marzano Power Law Calculator
      :target: https://pyup.io/repos/github/sreyemnayr/marzano/
      :alt: Updates
 
-
+.. image:: https://img.shields.io/pypi/pyversions/marzano.svg
+    :alt: Python 3.5+
 
 Requires modern Python
 
